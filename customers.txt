@@ -1,0 +1,16 @@
+CustomerID,CustomerName,City,Country
+C001,Amit Sharma,Bangalore,India
+C002,Neha Verma,Delhi,India
+C003,Rahul Mehta,Mumbai,India
+C004,Priya Singh,Hyderabad,India
+C005,Arjun Rao,Chennai,India
+C006,Sneha Kapoor,Pune,India
+C007,Vikram Joshi,Ahmedabad,India
+C008,Kavya Nair,Kochi,India
+C009,Rohan Das,Kolkata,India
+C010,Anjali Gupta,Noida,India
+C011,Suresh Iyer,Coimbatore,India
+C012,Pooja Malhotra,Jaipur,India
+C013,Manish Patel,Surat,India
+C014,Divya Reddy,Warangal,India
+C015,Nitin Kulkarni,Nagpur,India
