@@ -14,3 +14,4 @@ P012,Printer,Electronics,16000
 P013,Bookshelf,Furniture,14000
 P014,Pen Stand,Accessories,400
 P015,Power Bank,Electronics,3500
+P016,Power Bank,Electronics,3500
